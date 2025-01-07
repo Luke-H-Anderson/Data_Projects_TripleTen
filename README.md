@@ -6,7 +6,7 @@ and Tableau for project three and four. I hope you enjoy them.
 
 1. [AirBnb Analysis](https://github.com/Luke-H-Anderson/AirBnb-Analysis)
 2. [Customer Conversion Rate](https://github.com/Luke-H-Anderson/Customer-Conversion_Rate)
-3. Superstore Customer Analysis
+3. [Superstore Customer Analysis](https://github.com/Luke-H-Anderson/Superstore-Sales-Analysis)
 4. Zomato Customer Analysis
 
 Feel free to click on the hyperlinks and explore the projects further.
